@@ -3,7 +3,10 @@
 
 <marquee>🚀 Código limpio, eficiente y escalable. </marquee>
 
-Precisión, adaptabilidad y enfoque en calidad. Especializado en **Frontend con React.js y Backend con .NET y Node.js**, optimizando rendimiento y experiencia de usuario.  
+Precisión, adaptabilidad y enfoque en calidad. 
+Especializado en **Frontend con React.js y 
+Backend con .NET y Node.js**, 
+optimizando rendimiento y experiencia de usuario.  
 
 📍 Buenos Aires, Argentina  
 
@@ -37,12 +40,6 @@ Precisión, adaptabilidad y enfoque en calidad. Especializado en **Frontend con 
 
 **🔹 Calculadora y Manual de Tubos de Cobre** - *Copper Development Association Inc.* *(2023)*  
 🔗 [Ver Proyecto](https://copper-tube-calculator-v2.netlify.app/)  
-
----
-
-## 📄 CV  
-
-📥 [Descargar CV](https://github.com/agusalta/tu-repo/blob/main/CV_ALTAMIRANO_AGUSTÍN_2025.pdf)  
 
 ---
 
