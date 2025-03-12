@@ -53,4 +53,3 @@ optimizing performance and user experience.
 ## 📩 Contact
 
 📧 [Email](mailto:gusalta002@gmail.com)  
-🐙 [GitHub](https://github.com/agusalta)
