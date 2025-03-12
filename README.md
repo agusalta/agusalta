@@ -1,18 +1,18 @@
 # Agustín Altamirano  
-### Desarrollador Web | Analista de Sistemas  
+### Web Developer | Systems Analyst
 
-<marquee>🚀 Código limpio, eficiente y escalable. </marquee>
+<marquee>🚀 Clean, efficient, and scalable code. </marquee>
 
-Precisión, adaptabilidad y enfoque en calidad. 
-Especializado en **Frontend con React.js y 
-Backend con .NET y Node.js**, 
-optimizando rendimiento y experiencia de usuario.  
+Precision, adaptability, and a focus on quality.  
+Specialized in Frontend with React.js and  
+Backend with .NET and Node.js,  
+optimizing performance and user experience.
 
-📍 Buenos Aires, Argentina  
+📍 Buenos Aires, Argentina
 
 ---
 
-## 🚀 Tecnologías y herramientas  
+## 🚀 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -27,31 +27,30 @@ optimizando rendimiento y experiencia de usuario.
 
 ---
 
-## 📚 Formación  
+## 📚 Education
 
-- **Analista de Sistemas** - Instituto ORT *(2023 - 2025)*  
-- **Node.js con Express y MongoDB** - UTN *(2023)*  
+- **Systems Analyst** - Instituto ORT *(2023 - 2025)*  
+- **Node.js with Express and MongoDB** - UTN *(2023)*  
 - **React.js & Material UI** - UTN *(2023)*  
-- **Desarrollo Web (HTML, CSS, Sass, Bootstrap)** - Coderhouse *(2022)*  
+- **Web Development (HTML, CSS, Sass, Bootstrap)** - Coderhouse *(2022)*  
 
 ---
 
-## 💼 Experiencia  
+## 💼 Experience
 
-**🔹 Calculadora y Manual de Tubos de Cobre** - *Copper Development Association Inc.* *(2023)*  
-🔗 [Ver Proyecto](https://copper-tube-calculator-v2.netlify.app/)  
-
----
-
-## 📊 GitHub  
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=agusalta&show_icons=true&theme=radical)  
-![Top Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=agusalta&layout=compact&theme=radical)  
+**🔹 Copper Tube Calculator & Manual** - *Copper Development Association Inc.* *(2023)*  
+🔗 [View Project](https://copper-tube-calculator-v2.netlify.app/)  
 
 ---
 
-## 📩 Contacto  
+## 📊 GitHub
 
-📧 [Correo Electrónico](mailto:gusalta002@gmail.com)  
-🐙 [GitHub](https://github.com/agusalta)  
+![Stats](https://github-readme-stats.vercel.app/api?username=agusalta&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusalta&layout=compact&theme=radical)  
 
+---
+
+## 📩 Contact
+
+📧 [Email](mailto:gusalta002@gmail.com)  
+🐙 [GitHub](https://github.com/agusalta)
