@@ -30,8 +30,8 @@ optimizing performance and user experience.
 
 ## 💼 Experience
 
-**🔹 Copper Tube Calculator & Manual** - *Copper Development Association Inc.* *(2023)*  
-🔗 [View Project](https://copper-tube-calculator-v2.netlify.app/)  
+**🔹 You can find all my experience on my website.**  
+🔗 [View Portfolio](https://port-aa.netlify.app/) 
 
 ---
 
