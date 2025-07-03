@@ -42,10 +42,16 @@ Check out all my projects and professional experience on my portfolio:
 
 Here’s a quick look at my GitHub activity and most used languages:
 
-<img src="https://github-readme-stats.vercel.app/api?username=agusalta&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div style="max-width: 800px; margin: auto; width: 100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusalta&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusalta&theme=radical" style="width: 100%;" />
 
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agusalta&theme=radical" style="width: 49%; height: auto;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agusalta&theme=radical" style="width: 49%; height: auto;" />
+  </div>
+
+</div>
 
 ---
 
